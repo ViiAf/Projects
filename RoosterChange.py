@@ -1,5 +1,4 @@
-# See the Instructions tab.
-# Scroll down to see where you should write your solution
+# Initial Real Madrid Rooster 
 roster = [
   "Thibaut Courtois",
   "Dani Carvajal",
@@ -32,7 +31,7 @@ roster = [
   "Mariano"
 ]
 
-# Write your solution below
+
 
 print("\nThe current Real Madrid roster:\n")
 # Print the current roster using a for loop
