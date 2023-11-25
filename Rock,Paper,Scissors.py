@@ -1,5 +1,4 @@
-# Write your solution below the starter code
-# Follow the instructions in the tab to the right
+
 import random
 from random import seed
 from random import randint
