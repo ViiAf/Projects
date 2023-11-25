@@ -1,4 +1,4 @@
-# Write your code below. See the Instructions in the tab to the right
+# Code Calculte number of books one can buy based amount they currently have
 desired_num = int(input("How many books do you want to buy? "))
 money = int(input("How much money do you have? "))
 amount_remaining = abs(int(money - (desired_num*20)))
