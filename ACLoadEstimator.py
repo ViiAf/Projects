@@ -1,4 +1,4 @@
-# Write your AC Load Estimator solution here
+# AC Load Estimator Code
 width = float(input("enter width of room: "))
 height = float(input("enter height of room: "))
 number_of_people = int(input("enter number of people in the room: "))
